@@ -30,18 +30,6 @@
 
 ---
 
-### 🧠 Featured Project — ExceliTest
-
-<p align="center">
-  <img src="https://github.com/ArghajitSaha/ArghajitSaha/blob/main/assets/excelitest-preview.png" width="700"/>
-</p>
-
-> **[ExceliTest](https://excelitest.vercel.app/)** is an MCQ generator that turns Excel files into ready-to-use tests.  
-> Designed for educators and trainers — it imports question banks, auto-formats questions, and streamlines test creation.  
-> Powered by React + Next.js with a sleek UI and Appwrite backend.  
-
----
-
 ### 📊 Stats That Matter
 
 <p align="center">
