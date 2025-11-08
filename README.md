@@ -25,7 +25,7 @@ I live for the intersection of **design, code, and human experience** — buildi
 
 ---
 
-### ⚡ My Tech Stack
+### ⚡ Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,js,nodejs,java,html,css,tailwind,bootstrap,git,github,vscode" />
@@ -33,21 +33,23 @@ I live for the intersection of **design, code, and human experience** — buildi
 
 ---
 
-### 🧩 Featured Projects
+### 🚀 Featured Project
 
 <p align="center">
-  <a href="https://github.com/ArghajitSaha/ExcliTest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArghajitSaha&repo=ExceliTest&theme=radical&border_color=9A5DFE&border_radius=10" />
-  </a>
-  <a href="https://github.com/ArghajitSaha/ai-splitwise-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArghajitSaha&repo=ai-splitwise-clone&theme=radical&border_color=9A5DFE&border_radius=10" />
+  <a href="https://excelitest.vercel.app/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArghajitSaha&repo=ExceliTest&theme=radical&border_color=9A5DFE&border_radius=10&show_owner=false" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ArghajitSaha?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20More%20Projects-430089?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://excelitest.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Project-430089?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <i>ExceliTest — Smart test creation reimagined.<br/>
+  A powerful, minimal, and intelligent platform built to simplify test generation with AI-powered suggestions and a seamless user interface.</i>
 </p>
 
 ---
@@ -73,7 +75,17 @@ I live for the intersection of **design, code, and human experience** — buildi
 
 ---
 
-### 🎯 My Philosophy
+### 🎧 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31uzj6wrxkp3dgypc7hv55n56e6u" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31uzj6wrxkp3dgypc7hv55n56e6u&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=9A5DFE&bar_color_cover=true" alt="Now Playing on Spotify"/>
+  </a>
+</p>
+
+---
+
+### 🧠 Philosophy
 
 > “Code is my language,  
 > design is my tone,  
@@ -99,6 +111,10 @@ If a user remembers how my app made them *feel*, I’ve done my job.
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArghajitSaha&color=9A5DFE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:430089,100:000000&height=100&section=footer"/>
