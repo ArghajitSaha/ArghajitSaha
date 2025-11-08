@@ -1,111 +1,83 @@
-<!-- 🖤 ARGAHJIT SAHA | GITHUB PROFILE README -->
+<!-- 🌑 ARGHAJIT SAHA - GITHUB PROFILE README -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:430089&height=180&section=header&text=Arghajit%20Saha&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20meaningful%20digital%20experiences&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Arghajit%20Saha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=9A5DFE&center=true&vCenter=true&width=520&lines=MCA+Student+%7C+Web+Developer+Intern;Designing+Frontends+That+Speak+Emotion;Turning+Ideas+into+Smooth+User+Experiences;Code.+Design.+Impact."/>
+  <b>💻 Web Developer Intern @ Digital Solution Cell, Dibrugarh University</b><br/>
+  <b>🎓 MCA Student | Frontend Craftsman | Builder of meaningful web experiences</b>
 </p>
 
 ---
 
 ### 🕶️ About Me
 
-> “I believe good design isn’t decoration — it’s clarity wrapped in beauty.”
+> I create digital experiences that feel as good as they look.  
+> My focus lies in crafting intuitive frontends with clean UI, strong UX, and real-world purpose.
 
-Hey there 👋 I’m **Arghajit**,  
-an MCA student and **Web Developer Intern @ Digital Solution Cell, Dibrugarh University**.  
-I live for the intersection of **design, code, and human experience** — building web apps that look sharp, feel natural, and solve problems that matter.
-
-🧠 **Focus Areas**
-- Crafting clean, immersive **frontends** using *React & Next.js*  
-- Designing smooth user journeys with *Tailwind, Bootstrap, and UX sense*  
-- Building scalable backend logic with *Node.js & Express*  
-- Forever learning, experimenting, and refining — because perfection is a moving target.
+- 🚀 **Currently:** Web Developer Intern @ *Digital Solution Cell, Dibrugarh University*  
+- 🎯 **Goal:** Building web apps that engage users daily and solve real problems  
+- ⚙️ **Tech Stack:** React • Next.js • Node.js • Java  
+- 🧩 **Belief:** Design is not decoration — it’s communication.  
 
 ---
 
 ### ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,js,nodejs,java,html,css,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,java,js,html,css,tailwind,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 Featured Project
+### 🧠 Featured Project — ExceliTest
 
 <p align="center">
-  <a href="https://excelitest.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArghajitSaha&repo=ExceliTest&theme=radical&border_color=9A5DFE&border_radius=10&show_owner=false" />
-  </a>
+  <img src="https://github.com/ArghajitSaha/ArghajitSaha/blob/main/assets/excelitest-preview.png" width="700"/>
+</p>
+
+> **[ExceliTest](https://excelitest.vercel.app/)** is an MCQ generator that turns Excel files into ready-to-use tests.  
+> Designed for educators and trainers — it imports question banks, auto-formats questions, and streamlines test creation.  
+> Powered by React + Next.js with a sleek UI and Appwrite backend.  
+
+---
+
+### 📊 Stats That Matter
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArghajitSaha&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArghajitSaha&theme=midnight-purple&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <a href="https://excelitest.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Project-430089?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>ExceliTest — Smart test creation reimagined.<br/>
-  A powerful, minimal, and intelligent platform built to simplify test generation with AI-powered suggestions and a seamless user interface.</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArghajitSaha&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10" height="165"/>
 </p>
 
 ---
 
-### 📊 GitHub Insights
+### 🌌 My Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArghajitSaha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArghajitSaha&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArghajitSaha&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-</p>
+> "Great interfaces don’t just look good — they *feel* right.  
+> Code is my brush, design is my language."
 
 ---
 
-### 🌌 Aesthetic Touch
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArghajitSaha&theme=onedark&margin-w=8&margin-h=8&no-frame=true&row=1"/>
-</p>
-
----
-
-### 🧠 Philosophy
-
-> “Code is my language,  
-> design is my tone,  
-> and impact is my message.”  
-
-I don’t chase trends — I chase meaning.  
-If a user remembers how my app made them *feel*, I’ve done my job.
-
----
-
-### 🕸️ Connect with Me
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arghajit-saha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=9A5DFE"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sahaarghajit8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=9A5DFE"/>
+    <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/ArghajitSaha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=9A5DFE"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArghajitSaha&color=9A5DFE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:430089,100:000000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer"/>
 </p>
