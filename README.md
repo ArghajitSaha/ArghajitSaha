@@ -75,16 +75,6 @@ I live for the intersection of **design, code, and human experience** — buildi
 
 ---
 
-### 🎧 Now Playing on Spotify
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31uzj6wrxkp3dgypc7hv55n56e6u" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31uzj6wrxkp3dgypc7hv55n56e6u&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=9A5DFE&bar_color_cover=true" alt="Now Playing on Spotify"/>
-  </a>
-</p>
-
----
-
 ### 🧠 Philosophy
 
 > “Code is my language,  
