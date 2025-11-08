@@ -36,7 +36,7 @@ I live for the intersection of **design, code, and human experience** — buildi
 ### 🧩 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ArghajitSaha/ExceliTest">
+  <a href="https://github.com/ArghajitSaha/ExcliTest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArghajitSaha&repo=ExceliTest&theme=radical&border_color=9A5DFE&border_radius=10" />
   </a>
   <a href="https://github.com/ArghajitSaha/ai-splitwise-clone">
