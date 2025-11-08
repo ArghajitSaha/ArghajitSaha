@@ -1,21 +1,66 @@
+<h1 align="center">👋 Hey, I'm Arghajit Saha</h1>
 
-<h1 align="center">Hi 👋, I'm Arghajit Saha</h1>
-<h3 align="center">A second-year undergraduate pursuing BCA at Dibrugarh University. 🎓 💻 As a Co-Lead at Google Developer Students Club, I thrive on fostering a community of tech enthusiasts and driving impactful projects. 🚀 🚀 My tech journey is fueled by proficiency in languages like C, Java and Python, where I find joy in crafting efficient and elegant solutions. 🌐 🌐 Passionate about Web Development, I enjoy bringing ideas to life through the magic of code. From front-end aesthetics to back-end functionality, I embrace the full-stack challenge. 💡 🛠️ Currently open to exciting tech opportunities and collaborations that allow me to contribute, learn, and make a meaningful impact. Let's code the future together! 🌟 Connect with me on LinkedIn and let's build something amazing! 🚧</h3>
-
-- 🔭 I’m currently working as a Web Developer Trainee in **NIELIT JORHAT EC**
-
-- 🌱 I’m currently learning **React, Tailwind**
-
-- 👯 I’m looking to collaborate on any **Dynamic Web app projects**
-
-- 💬 Ask me about **Gsap**
-
-- 📫 How to reach me **sahaarghajit8@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arghajit saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghajit saha" height="30" width="40" /></a>
+<p align="center">
+  💻 <b>MCA Student</b> | 🌐 <b>Web Developer Intern @ Digital Solution Cell, Dibrugarh University</b><br/>
+  🎨 Frontend Enthusiast | 🚀 Building powerful & beautiful web apps that make an impact
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
+
+### 🧭 About Me
+
+- 🔭 Currently working as a **Web Developer Intern** at *Digital Solution Cell, Dibrugarh University*  
+- 🎓 Pursuing **Master of Computer Applications (MCA)**  
+- 💡 I enjoy **designing and developing frontends** that feel smooth, engaging, and purposeful  
+- 🌱 Exploring **Next.js**, **Node.js**, and efficient frontend architecture  
+- 🧠 Goal: Create web apps that users love — functional, fast, and visually refined  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,java,bootstrap,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyangupta12&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyangupta12&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyangupta12&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arghajit-saha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sahaarghajit8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kalyangupta12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ✨ A Thought I Live By
+
+> “Design isn’t just what it looks like and feels like. Design is how it works.”  
+> — *Steve Jobs*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
